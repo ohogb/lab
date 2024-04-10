@@ -1,0 +1,6 @@
+BasedOnStyle: WebKit
+RequiresClausePosition: WithPreceding
+NamespaceIndentation: All
+UseTab: Always
+TabWidth: 4
+SortIncludes: Never
